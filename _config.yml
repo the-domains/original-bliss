@@ -1,3 +1,4 @@
+layout_spectrum: 0.39064002805389464
 typography_spectrum: 0.1368420731741935
 color:
   brandStrength: 0.3474729822482914
@@ -5,16 +6,9 @@ color:
   saturation: 0.015842104563489556
   rhythmicContrast: 0.7638780048582703
   brandColors:
-    - '#FFFFFF'
-    - '#8F7B84'
-    - '#3C3B39'
-    - '#CFC3C9'
-    - '#0C0C0C'
-layout_spectrum: 0.39064002805389464
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Original Bliss
-navigation:
-  - name: Soul Side Out
-    url: 'http://soul-side-out.com'
-    type: external
-title: "O \_R \_I \_G \_I \_N \_A \_L \_ \_B \_L \_I \_S \_S"
-description: Stream of Consciousness for Living Soul Side Out
